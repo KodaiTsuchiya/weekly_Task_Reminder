@@ -17,7 +17,6 @@ function myFunction() {
       setTrigger(functionName,hours,minutes);
     }
   }
-  Logger.log(ScriptApp.getProjectTriggers().length)
 }
 
 
