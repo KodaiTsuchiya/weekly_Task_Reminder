@@ -1,1 +1,2 @@
 # weekly_Task_Reminder
+Googleカレンダーに登録してある毎週発生するタスクをhipchatで通知するGAS(GoogleAppScript)プロジェクトです。
